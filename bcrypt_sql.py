@@ -3,6 +3,9 @@
 """
 Ralph 15-05-2016
 Hashed salty passwords, stuffed in the database and retrieved to compare to user login input.
+
+Ralph 31-03-2017
+To do: fix OOP -> this is ugly
 """
 
 import MySQLdb
